@@ -580,7 +580,6 @@ main {
 
 .testimonials-item {
   min-width: 100%;
-  scroll-snap-align: center;
 }
 
 .testimonials-avatar-box {
